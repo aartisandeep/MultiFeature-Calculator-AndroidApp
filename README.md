@@ -1,6 +1,7 @@
 #Multi Feauture Calculator Android App
+TESTED ON: Pixel 6 Pro
 
-TESTED ON: Motorola Moto G6 Plus
+Description: Calculator Ultimate is a multi-featured calculator app with standard and scientific options, along with unit conversion, currency conversion, and currency rate trends. The currency conversion feature provides real-time exchange rates for over 8 currencies and allows users to easily convert amounts to their desired currency with a simple tap. The app will have offline features of a calculator and unit conversion, allowing the user to use these functions without a network connection.
 
 NAVIGATION
 <p align="center">
